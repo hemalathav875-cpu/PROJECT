@@ -28,6 +28,7 @@ If the model is not performing well, experiment with different architectures, re
 Visualize the training/validation loss and accuracy over epochs to understand the training process. Visualize some misclassified examples to gain insights into potential improvements.
 
 # Program:
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
@@ -131,7 +132,7 @@ for i in range(10):
 
 plt.tight_layout()
 plt.show()
-
+```
 ## Output:
 <img width="1705" height="513" alt="Screenshot 2026-09-12 173705" src="https://github.com/user-attachments/assets/5cdb5d6e-ddcb-4904-962c-75367cc9c614" />
 <img width="767" height="367" alt="Screenshot 2026-09-12 173713" src="https://github.com/user-attachments/assets/339fc846-db67-4cc7-9143-bd88dae576db" />
