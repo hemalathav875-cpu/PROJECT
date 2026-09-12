@@ -1,4 +1,4 @@
-<img width="926" height="430" alt="Screenshot 2026-09-12 173802" src="https://github.com/user-attachments/assets/9c0b961e-f446-43ed-8261-b2a174b62690" />#Project Based Experiments
+
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
